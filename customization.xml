@@ -20,7 +20,12 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ActivateAndroidMonitorToolWindow" is_action="true" action_type="1" position="27">
+    <group value="ActivateVersionControlToolWindow" is_action="true" action_type="1" position="27">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateAndroidMonitorToolWindow" is_action="true" action_type="1" position="28">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
